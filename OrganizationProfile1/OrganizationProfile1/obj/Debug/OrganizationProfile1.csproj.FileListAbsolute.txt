@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.frmRegistration.resources
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.frmConfirmation.resources
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\bin\Debug\OrganizationProfile1.exe.config
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\bin\Debug\OrganizationProfile1.exe
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\bin\Debug\OrganizationProfile1.pdb
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.exe
+C:\Users\Administrator\source\repos\OrganizationProfile1\OrganizationProfile1\obj\Debug\OrganizationProfile1.pdb
